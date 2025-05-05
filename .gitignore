@@ -3,3 +3,4 @@
 __pycache__/
 facenet_ec_0.7543.pth
 test/
+.env
