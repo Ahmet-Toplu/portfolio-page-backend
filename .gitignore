@@ -1,1 +1,4 @@
-# test
+.venv
+.venv-backup
+__pycache__/
+facenet_ec_0.7543.pth
